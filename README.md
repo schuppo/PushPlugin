@@ -122,6 +122,9 @@ Add the **PushNotification.js** script to your assets/www folder (or javascripts
 <script type="text/javascript" charset="utf-8" src="PushNotification.js"></script>
 ```
 
+## Manual Installation for iOS
+See **README-parse.md**
+
 ## Manual Installation for WP8
 
 Copy the following files to your project's Commands folder and add it to the VS project:
